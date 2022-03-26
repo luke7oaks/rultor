@@ -106,7 +106,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-core</artifactId>
-            <version>1.10.66</version>
+            <version>1.12.186</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
@@ -357,7 +357,7 @@
         <dependency>
             <groupId>com.github.docker-java</groupId>
             <artifactId>docker-java</artifactId>
-            <version>2.2.3</version>
+            <version>3.2.0</version>
         </dependency>
     </dependencies>
     <build>
